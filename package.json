@@ -1,0 +1,24 @@
+{
+    "name": "snake-game-in-js",
+    "version": "0.0.1",
+    "author": "Thiago Ferreira",
+    "license": "MIT",
+    "description": "Play online the retro Snake game developed in Javascript",
+    "homepage": "https://thiagodnf.github.io/snake-game-in-js",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thiagodnf/snake-game-in-js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node server.js"
+    },
+    "dependencies": {
+        "connect": "3.7.0",
+        "livereload": "0.9.3",
+        "network": "^0.1.3",
+        "serve-static": "1.15.0",
+        "winston": "3.7.2"
+    }
+}
