@@ -1,6 +1,6 @@
 {
     "name": "snake-game-in-js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Thiago Ferreira",
     "license": "MIT",
     "description": "Play online the retro Snake game developed in Javascript",
